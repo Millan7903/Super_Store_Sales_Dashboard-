@@ -1,0 +1,1 @@
+I recently worked on the **Super Store Sales Dashboard project on Power BI**, where I applied data analysis techniques, focusing on time series analysis, to uncover valuable insights and accurate sales forecasting. This project enabled me to create interactive dashboards that support data-driven decisions and drive business success.
